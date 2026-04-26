@@ -60,7 +60,7 @@ Coming from the public sector, I carry values that AI systems desperately need:
 ## 🤝 **Let’s Connect!**
 📌 **LinkedIn:** [akshay-sharma-5b4035aa](https://www.linkedin.com/in/akshay-sharrmaa-5b4035aa)  
 📌 **GitHub:** [AKAK555](https://github.com/AKAK555)  
-📌 **Live Portfolio:** [akshaysharma6293.github.io](https://akshaysharma6293.github.io)
+📌 **Live Portfolio:** [AKAK555.github.io](https://AKAK555.github.io)
 
 ---
 ### ✨ *The best part? This is just the beginning.*
