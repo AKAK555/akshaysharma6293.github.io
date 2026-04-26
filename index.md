@@ -1,7 +1,7 @@
 # Akshay Sharma
 **Data Scientist & AI Engineer** 📍 Delhi, India | [LinkedIn](www.linkedin.com/in/akshay-sharma-5b4035aa) | [GitHub](https://github.com/AKAK555)
 
-## 🚀 Professional Summary
+## 🚀 Professional Summary 
 [cite_start]Senior professional with over 9 years of experience in high-stakes government operations. [cite_start]Currently transitioning into **Data Science and AI** with a specialization in Agentic AI workflows, LLMs, and Time-Series Forecasting[cite: 6]. [cite_start]I am bridging my professional maturity with technical expertise through an **M.Sc. in Data Science** from Liverpool John Moores University[cite: 8].
 
 ---
