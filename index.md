@@ -1,22 +1,20 @@
 <style>
   body { font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: #2d3748; line-height: 1.8; }
   
-  /* Very light background for the main Name/Header section */
-  .main-header {
-    background-color: #fcfdfe;
-    border: 1px solid #f0f4f8;
-    padding: 30px;
+.main-header {
+    /* Changed from #fcfdfe to a lighter, cleaner off-white */
+    background-color: #f8fafc; 
+    border: 1px solid #f1f5f9; /* Lightened the border to match */
+    padding: 35px;
     border-radius: 12px;
     margin-bottom: 30px;
+    text-align: left;
   }
 
-  h1 { margin: 0; color: #1a202c; font-weight: 800; font-size: 2.5rem; }
-  h2, h3 { color: #1a202c; font-weight: 700; margin-top: 1.5em; }
-  
-  /* Very light background for project headings */
   .project-card h3 { 
-    background-color: #fcfdfe; 
-    border: 1px solid #edf2f7;
+    /* Making this consistent with the main header */
+    background-color: #f8fafc; 
+    border: 1px solid #f1f5f9;
     padding: 12px 18px; 
     border-radius: 8px; 
     margin-top: 0;
@@ -24,7 +22,10 @@
     font-size: 1.25rem;
   }
 
-  .header-sub { font-size: 1.2em; color: #4a5568; font-weight: 400; margin-top: 10px; }
+  h1 { margin: 0; color: #1a202c; font-weight: 800; font-size: 2.5rem; }
+  h2, h3 { color: #1a202c; font-weight: 700; margin-top: 1.5em; }
+  
+ .header-sub { font-size: 1.2em; color: #4a5568; font-weight: 400; margin-top: 10px; }
   .tag { background: #edf2f7; color: #2d3748; padding: 4px 12px; border-radius: 4px; font-size: 0.85em; font-weight: 600; margin-right: 5px; display: inline-block; margin-bottom: 8px; }
   .project-card { border-left: 4px solid #3182ce; padding: 25px; margin-bottom: 40px; background: white; }
   
@@ -42,10 +43,10 @@
   <h1>Akshay Sharma</h1>
   <div class="header-sub">Senior Professional & AI Engineer specializing in Agentic Systems & LLMs</div>
   <p style="margin-top: 15px;">
-    [LinkedIn](https://www.linkedin.com/in/akshay-sharma-5b4035aa) | 
-    [GitHub](https://github.com/AKAK555) | 
-    [Email](mailto:akshaysharma6293@gmail.com) | 
-    [📄 Download Resume](./Akshay_Resume_10Apr.pdf)
+    <a href="https://www.linkedin.com/in/akshay-sharma-5b4035aa" target="_blank">LinkedIn</a> | 
+    <a href="https://github.com/AKAK555" target="_blank">GitHub</a> | 
+    <a href="mailto:akshaysharma6293@gmail.com">Email</a> | 
+    <a href="./Akshay_Resume_10Apr.pdf" target="_blank">📄 Download Resume</a>
   </p>
 </div>
 
